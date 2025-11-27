@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 // App.js
 import React from 'react';
 import ProductList from './Components/ProductList';
